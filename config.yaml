@@ -1,0 +1,16 @@
+baseurl: "http://4g.noobadmin.de/"
+languageCode: "de-de"
+title: "Noobadmin 4G"
+theme: "hyde-x"
+path: "blog"
+paginatePath: "path"
+publishdir: "public"
+metaDataFormat: "yaml"
+
+permalinks:
+  post: "blog/:year/:month/:day/:filename/"
+
+
+params:
+ Description: "Blog all the things"
+ Author: "Jan Brand"
