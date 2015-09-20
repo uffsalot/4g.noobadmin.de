@@ -10,7 +10,15 @@ metaDataFormat: "yaml"
 permalinks:
   post: "blog/:year/:month/:day/:filename/"
 
+author:
+  name: "Jan Brand"
 
 params:
- Description: "Blog all the things"
- Author: "Jan Brand"
+ Description: "Yeah!"
+ Copyright: "&copy; 2015 Jan Brand.<br/>CC BY-NC-SA Some rights reserved."
+ theme: "theme-base-0d"
+ truncate: false
+ tagline: "Blog all the things"
+ github: "https://github.com/uffsalot"
+ twitter: "https://twitter.com/P0stbote"
+ youtube: "https://www.youtube.com/user/Postbotze10"
