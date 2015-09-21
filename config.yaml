@@ -22,3 +22,14 @@ params:
  github: "https://github.com/uffsalot"
  twitter: "https://twitter.com/P0stbote"
  youtube: "https://www.youtube.com/user/Postbotze10"
+
+menu:
+ main:
+ - name: "Technik"
+   weight: 50
+   identifier: "Technik"
+   url: "/Technik/"
+ - name: "Impressum"
+   weight: 100
+   identifier: "Impressum"
+   url: "/Impressum/"
