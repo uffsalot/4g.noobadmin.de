@@ -7,7 +7,7 @@ title: Technik
 Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger großen Rechnerpark aufzubauen. Bei mir hat das (leider) nur bedingt geklappt. Momentan im Einsatz:
 
 + Mobil
-	+ Sony Xperia Z3 (Android 5.1.1, rooted))
+	+ Sony Xperia Z3 (Android 5.1.1, rooted)
 	+ LG Optimus 4X HD (EuphoriaOS, Android 5.1)
 	+ Lenovo Thinkpad T430
 		+ HD+ Display (1600x900)
