@@ -11,7 +11,7 @@ permalinks:
   post: "blog/:year/:month/:day/:filename/"
 
 author:
-  name: "Jan Brand"
+  name: "Jan"
 
 params:
  Description: "Yeah!"
@@ -20,7 +20,7 @@ params:
  truncate: false
  tagline: "Blog all the things"
  github: "https://github.com/uffsalot"
- twitter: "https://twitter.com/P0stbote"
+ twitter: "https://twitter.com/uffsalot"
  youtube: "https://www.youtube.com/user/Postbotze10"
 
 menu:
