@@ -1,4 +1,4 @@
-baseurl: "http://4g.noobadmin.de/"
+baseurl: "https://4g.noobadmin.de/"
 languageCode: "de-de"
 title: "Noobadmin 4G"
 theme: "hyde-x"
