@@ -13,7 +13,8 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ HD+ Display (1600x900)
 		+ Intel i5-3320M
 		+ 8GB RAM
-		+ 320GB HDD
+		+ 120GB SSD
+        + 500GB HDD im Ultrabay-Slot
 		+ Arch Linux x64
 + Hauptrechner
 	+ AMD Phenom II X4 945
@@ -37,7 +38,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ be quiet! Pure Power 300W
 	+ 1x 2TB WD Red
 	+ 1x 4TB WD Red
-	+ 1x 2TB Samsung SpinPoint F4 EG
+	+ 1x 4TB Seagate Desktop SSHD
 	+ 1x Samsung 840 EVO 120GB SSD
 	+ IBM PRO/1000 PT Dual-Port (Intel 82571GB) (Beide Schnittstellen gebündelt)
 	+ TP-LINK TL-WN881ND 300Mbit (Accesspoint mittels hostapd)
@@ -56,13 +57,13 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
  
 
 + Online:
-	+ root-Server von ip-projects.de
-	+ Intel S1200BTL
-	+ Intel Xeon E3-1245
-	+ 16 GB ECC DDR3 RAM
-	+ 3ware SAS 9750-4i RAID-Controller
-	+ 2x 1TB WD RED ZFS Mirror
-	+ 2x 128GB OCZ Agility 3 SSD RAID1
-	+ 100MBit Anbindung
-	+ Debian Wheezy
-	+ 4 Team Fortress 2 Server, Web/Mailserver
+	+ root-Server von [ip-projects.de](https://www.ip-projects.de)
+		+ Intel S1200BTL
+		+ Intel Xeon E3-1245
+		+ 16 GB ECC DDR3 RAM
+		+ 3ware SAS 9750-4i RAID-Controller
+		+ 2x 1TB WD RED ZFS Mirror
+		+ 2x 128GB OCZ Agility 3 SSD RAID1
+		+ 1 GBit Anbindung
+		+ Debian Wheezy
+		+ 4 Team Fortress 2 Server, Web/Mailserver
