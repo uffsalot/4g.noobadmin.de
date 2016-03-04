@@ -28,7 +28,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 2x LG W2242T
 	+ Logitech G110
 	+ Logitech G9x
-	+ Arch Linux x64, Windows 7 Ultimate x64
+	+ Arch Linux x64, Windows 10 Pro x64
  
 
 + Server (Mediacenter, Datengrab, eierlegende Wollmilchsau...)
