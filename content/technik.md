@@ -65,5 +65,5 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ 2x 1TB WD RED ZFS Mirror
 		+ 2x 128GB OCZ Agility 3 SSD RAID1
 		+ 1 GBit Anbindung
-		+ Debian Wheezy
+		+ Debian Jessie
 		+ 4 Team Fortress 2 Server, Web/Mailserver
