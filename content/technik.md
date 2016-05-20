@@ -14,7 +14,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ Intel i5-3320M
 		+ 8GB RAM
 		+ 120GB SSD
-	        + 500GB HDD im Ultrabay-Slot
+		+ 500GB HDD im Ultrabay-Slot
 		+ Arch Linux x64
 + Hauptrechner
 	+ AMD Phenom II X4 945
