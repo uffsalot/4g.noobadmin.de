@@ -7,14 +7,14 @@ title: Technik
 Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger großen Rechnerpark aufzubauen. Bei mir hat das (leider) nur bedingt geklappt. Momentan im Einsatz:
 
 + Mobil
-	+ Sony Xperia Z3 (Android 5.1.1, rooted)
+	+ Sony Xperia Z3 (Android 6.0.1, rooted)
 	+ LG Optimus 4X HD (EuphoriaOS, Android 5.1)
 	+ Lenovo Thinkpad T430
 		+ HD+ Display (1600x900)
 		+ Intel i5-3320M
 		+ 8GB RAM
 		+ 120GB SSD
-        + 500GB HDD im Ultrabay-Slot
+	        + 500GB HDD im Ultrabay-Slot
 		+ Arch Linux x64
 + Hauptrechner
 	+ AMD Phenom II X4 945
@@ -25,13 +25,13 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Crucial MX100 256GB, WD Caviar Blue 500GB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
 	+ Thermaltake Soprano
-	+ 2x LG W2242T
+	+ Dell UltraSharp U2515H, LG W2242T
 	+ Logitech G110
 	+ Logitech G9x
-	+ Arch Linux x64, Windows 10 Pro x64
+	+ Windows 10 Pro x64
  
 
-+ Server (Mediacenter, Datengrab, eierlegende Wollmilchsau...)
++ Server (Datengrab, eierlegende Wollmilchsau...)
 	+ Intel Pentium G620
 	+ 4GB Kingston ValueRAM
 	+ Asrock H61M/U3S3
@@ -39,14 +39,14 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 1x 2TB WD Red
 	+ 1x 4TB WD Red
 	+ 1x 4TB Seagate Desktop SSHD
+	+ 1x 5TB WD Blue
 	+ 1x Samsung 840 EVO 120GB SSD
 	+ IBM PRO/1000 PT Dual-Port (Intel 82571GB) (Beide Schnittstellen gebündelt)
 	+ TP-LINK TL-WN881ND 300Mbit (Accesspoint mittels hostapd)
 	+ Asus Xonar DS
-	+ TechniSat SkyStar HD
-	+ Sony KDL-50W805B
+	+ TechniSat SkyStar HD (TVHeadend)
 	+ 19" Chenbro RM42200
-	+ Ubuntu 14.04.2 LTS
+	+ Debian Jessie
  
 
 + Netzwerk
