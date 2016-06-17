@@ -54,7 +54,8 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Zig Meter Netzwerkkabel - Teils vorkonfektioniert gekauft, oder selbst gecrimpt
 	+ Fritz!Box 7360 EWE Edition (VDSL, Sync mit 18/1,6Mbit)
 	+ Banana Pi (DHCP & DNS Server)
- 
+    + Ubiquiti UniFi AP AC LR
+
 
 + Online:
 	+ root-Server von [ip-projects.de](https://www.ip-projects.de)
