@@ -8,14 +8,15 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 
 + Mobil
 	+ Sony Xperia Z3 (Android 6.0.1, rooted)
-	+ LG Optimus 4X HD (EuphoriaOS, Android 5.1)
+	+ LG Optimus 4X HD (Cyanogenmod 10)
 	+ Lenovo Thinkpad T430
 		+ HD+ Display (1600x900)
 		+ Intel i5-3320M
 		+ 8GB RAM
 		+ 120GB SSD
-		+ 500GB HDD im Ultrabay-Slot
+		+ 500GB WD Mobile HDD im Ultrabay-Slot
 		+ Arch Linux x64
+
 + Hauptrechner
 	+ AMD Phenom II X4 945
 	+ 8GB G.Skill RipJaws
@@ -30,7 +31,6 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Logitech G9x
 	+ Windows 10 Pro x64
  
-
 + Server (Datengrab, eierlegende Wollmilchsau...)
 	+ Intel Pentium G620
 	+ 4GB Kingston ValueRAM
@@ -42,20 +42,17 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 1x 5TB WD Blue
 	+ 1x Samsung 840 EVO 120GB SSD
 	+ IBM PRO/1000 PT Dual-Port (Intel 82571GB) (Beide Schnittstellen gebündelt)
-	+ TP-LINK TL-WN881ND 300Mbit (Accesspoint mittels hostapd)
 	+ Asus Xonar DS
 	+ TechniSat SkyStar HD (TVHeadend)
 	+ 19" Chenbro RM42200
 	+ Debian Jessie
  
-
 + Netzwerk
 	+ 2x ZyXEL GS1910-24
 	+ Zig Meter Netzwerkkabel - Teils vorkonfektioniert gekauft, oder selbst gecrimpt
 	+ Fritz!Box 7360 EWE Edition (VDSL, Sync mit 18/1,6Mbit)
 	+ Banana Pi (DHCP & DNS Server)
     + Ubiquiti UniFi AP AC LR
-
 
 + Online:
 	+ root-Server von [ip-projects.de](https://www.ip-projects.de)

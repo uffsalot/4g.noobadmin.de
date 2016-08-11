@@ -33,3 +33,9 @@ menu:
    weight: 100
    identifier: "Impressum"
    url: "/Impressum/"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  series: "series"
+
