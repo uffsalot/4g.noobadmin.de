@@ -193,7 +193,7 @@ Falls ein vordefinierter Key benutzt wird, kann man den Ordner, in dem das Zerti
 vim ~/acme_bc.sh
 ```
 #!/bin/bash
-Domains=(biocrafting.net account.biocrafting.net bctest.biocrafting.net comments.biocrafting.net dev.biocrafting.net fastdl.biocrafting.net filebase.biocrafting.net gallery.biocrafting.net game.biocrafting.net grafana.biocrafting.net hlstats.biocrafting.net icinga.biocrafting.net ipv6.biocrafting.net lan.biocrafting.net ldap.biocrafting.net mail.biocrafting.net paste.biocrafting.net piwik.biocrafting.net sourcebans.biocrafting.net storage.biocrafting.net support.biocrafting.net tools.biocrafting.net ts.biocrafting.net vanadium.biocrafting.net wolfram.biocrafting.net www.biocrafting.net xenon.biocrafting.net)
+Domains=(biocrafting.net www.biocrafting.net)
 for i in "${Domains[@]}"
 do
    :
