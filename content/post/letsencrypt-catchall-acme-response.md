@@ -88,7 +88,7 @@ cd ~acme
 git clone https://github.com/Neilpang/acme.sh.git
 cd acme.sh
 ./acme.sh --install
-cd ~; git clone https://github.com/Biocrafting/ansible-roles
+cd ~; git clone https://github.com/Biocrafting/ansible-roles ansible
 ssh-keygen -f id_rsa.rsa -t rsa -b 4096 -N ''
 # Der SSH-Key wird später benötigt!
 cat ~/.ssh/id_rsa.pub
