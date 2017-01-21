@@ -6,17 +6,13 @@ keywords: []
 title: Impressum
 ---
 
-Angaben gemäß § 5 TMG:
 
-Jan Brand  
-Am Hasenmoor 37  
-27726 Worpswede  
+Seitenbetreiber:
+Jan Brand
 
 Kontakt:
 
-E-Mail: 4g @ noobadm.in  
-
-Quelle: eRecht24, Rechtsanwalt für Internetrecht Sören Siebert
+E-Mail: 4g [at] noobadm.in  
 
 Haftungsausschluss:
 
@@ -78,3 +74,5 @@ Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die
 Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle
 der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails,
 vor.
+
+Quelle: eRecht24, Rechtsanwalt für Internetrecht Sören Siebert
