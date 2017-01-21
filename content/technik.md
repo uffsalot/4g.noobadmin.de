@@ -31,7 +31,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Logitech G9x
 	+ Windows 10 Pro x64
  
-+ Server (Datengrab, eierlegende Wollmilchsau...)
++ Server 1 (Datengrab, eierlegende Wollmilchsau...)
 	+ Intel Pentium G620
 	+ 4GB Kingston ValueRAM
 	+ Asrock H61M/U3S3
@@ -47,12 +47,24 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 19" Chenbro RM42200
 	+ Debian Jessie
  
++ Server 2 (Dell R610)
+	+ 2x Intel Xeon E5530
+	+ 6 * 8GB 1333MHz DDR3 ECC RAM (48GB Total)
+	+ 5 * 146GB 15K SAS
+	+ Dell H700 (BBU, 512MB Cache)
+	+ 2x 717W PSU (redundant)
+	+ iDRAC 6 Enterprise
+	+ 4 Broadcom Gigabit Ethernet
+	+ 32GB SanDisk USB-Stick (Boot-Drive)
+	+ 8GB VFLASH SD-Card
+	+ Proxmox 4.4
+	
 + Netzwerk
 	+ 2x ZyXEL GS1910-24
 	+ Zig Meter Netzwerkkabel - Teils vorkonfektioniert gekauft, oder selbst gecrimpt
 	+ Fritz!Box 7360 EWE Edition (VDSL, Sync mit 18/1,6Mbit)
 	+ Banana Pi (DHCP & DNS Server)
-    + Ubiquiti UniFi AP AC LR
+	+ Ubiquiti UniFi AP AC LR
 
 + Online:
 	+ root-Server von [ip-projects.de](https://www.ip-projects.de)
