@@ -13,8 +13,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ HD+ Display (1600x900)
 		+ Intel i5-3320M
 		+ 8GB RAM
-		+ 120GB SSD
-		+ 500GB WD Mobile HDD im Ultrabay-Slot
+		+ Samsung 850 Evo 500GB SSD (encrypted ZFS Root)
 		+ Arch Linux x64
 
 + Hauptrechner
@@ -36,11 +35,11 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 4GB Kingston ValueRAM
 	+ Asrock H61M/U3S3
 	+ be quiet! Pure Power 300W
-	+ 1x 2TB WD Red
-	+ 1x 4TB WD Red
-	+ 1x 4TB Seagate Desktop SSHD
-	+ 1x 5TB WD Blue
-	+ 1x Samsung 840 EVO 120GB SSD
+	+ 1* 2TB WD Red
+	+ 1* 4TB WD Red
+	+ 1* 4TB Seagate Desktop SSHD
+	+ 1* 5TB WD Blue
+	+ 1* Samsung 840 EVO 120GB SSD
 	+ IBM PRO/1000 PT Dual-Port (Intel 82571GB) (Beide Schnittstellen gebündelt)
 	+ Asus Xonar DS
 	+ TechniSat SkyStar HD (TVHeadend)
@@ -48,21 +47,21 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Debian Jessie
  
 + Server 2 (Dell R610)
-	+ 2x Intel Xeon E5530
-	+ 6 * 8GB 1333MHz DDR3 ECC RAM (48GB Total)
-	+ 5 * 146GB 15K SAS
-	+ Dell H700 (BBU, 512MB Cache)
-	+ 2x 717W PSU (redundant)
+	+ 2* Intel Xeon E5530
+	+ 6* 8GB 1333MHz DDR3 ECC RAM (48GB Total)
+	+ 5* 146GB 15K SAS, 1x 128GB Micron RealSSD
+	+ Dell H310 (IT-Mode)
+	+ 2* 717W PSU (redundant)
 	+ iDRAC 6 Enterprise
-	+ 4 Broadcom Gigabit Ethernet
+	+ 4* Broadcom Gigabit Ethernet
 	+ 32GB SanDisk USB-Stick (Boot-Drive)
 	+ 8GB VFLASH SD-Card
 	+ Proxmox 4.4
 	
 + Netzwerk
-	+ 2x ZyXEL GS1910-24
+	+ 2* ZyXEL GS1910-24
 	+ Zig Meter Netzwerkkabel - Teils vorkonfektioniert gekauft, oder selbst gecrimpt
-	+ Fritz!Box 7360 EWE Edition (VDSL, Sync mit 18/1,6Mbit)
+	+ Fritz!Box 7360 EWE Edition (VDSL, Sync mit 22/1,9Mbit)
 	+ Banana Pi (DHCP & DNS Server)
 	+ Ubiquiti UniFi AP AC LR
 
@@ -72,8 +71,8 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ Intel Xeon E3-1245
 		+ 16 GB ECC DDR3 RAM
 		+ 3ware SAS 9750-4i RAID-Controller
-		+ 2x 1TB WD RED ZFS Mirror
-		+ 2x 128GB OCZ Agility 3 SSD RAID1
+		+ 2* 1TB WD RED ZFS Mirror
+		+ 2* 128GB OCZ Agility 3 SSD RAID1
 		+ 1 GBit Anbindung
 		+ Debian Jessie
-		+ 4 Team Fortress 2 Server, Web/Mailserver
+		+ 4 Team Fortress 2 Server, Web/Mailserver, Seafile
