@@ -22,7 +22,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Sapphire HD 6950 2GB
 	+ Gigabyte 785GMT-USB3
 	+ be quiet! Pure Power L7 530W
-	+ Crucial MX100 256GB, WD Caviar Blue 500GB
+	+ Crucial MX100 256GB, Samsung EcoGreen F4 2TB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
 	+ Thermaltake Soprano
 	+ Dell UltraSharp U2515H, LG W2242T
@@ -35,7 +35,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 4GB Kingston ValueRAM
 	+ Asrock H61M/U3S3
 	+ be quiet! Pure Power 300W
-	+ 1* 2TB WD Red
+	+ 1* 5TB Seagate Desktop HDD
 	+ 1* 4TB WD Red
 	+ 1* 4TB Seagate Desktop SSHD
 	+ 1* 5TB WD Blue
@@ -49,7 +49,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 + Server 2 (Dell R610)
 	+ 2* Intel Xeon E5530
 	+ 6* 8GB 1333MHz DDR3 ECC RAM (48GB Total)
-	+ 5* 146GB 15K SAS, 1x 128GB Micron RealSSD
+	+ 5* 146GB 15K SAS, 1x 512GB Samsung 840 Pro
 	+ Dell H310 (IT-Mode)
 	+ 2* 717W PSU (redundant)
 	+ iDRAC 6 Enterprise
