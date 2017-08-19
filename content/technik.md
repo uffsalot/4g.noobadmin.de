@@ -17,14 +17,14 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ Arch Linux x64
 
 + Hauptrechner
-	+ AMD Phenom II X4 945
-	+ 8GB G.Skill RipJaws
+	+ AMD Ryzen 7 1700X
+	+ 32GB G.Skill RipJaws V
 	+ Sapphire HD 6950 2GB
-	+ Gigabyte 785GMT-USB3
-	+ be quiet! Pure Power L7 530W
-	+ Crucial MX100 256GB, Samsung EcoGreen F4 2TB
+	+ ASUS Prime X370-Pro
+	+ be quiet! Straight Power 10-CM 600W
+	+ Samsung960 EVO 550GB, Samsung EcoGreen F4 2TB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
-	+ Thermaltake Soprano
+	+ Nanoxia Deep Silence 3
 	+ Dell UltraSharp U2515H, LG W2242T
 	+ Logitech G110
 	+ Logitech G9x
