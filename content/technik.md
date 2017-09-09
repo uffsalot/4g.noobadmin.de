@@ -19,10 +19,10 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 + Hauptrechner
 	+ AMD Ryzen 7 1700X
 	+ 32GB G.Skill RipJaws V
-	+ Sapphire HD 6950 2GB
+	+ KFA² GeForce GTX 1080 EXOC 8GB
 	+ ASUS Prime X370-Pro
 	+ be quiet! Straight Power 10-CM 600W
-	+ Samsung960 EVO 550GB, Samsung EcoGreen F4 2TB
+	+ Samsung 960 EVO 550GB, Samsung EcoGreen F4 2TB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
 	+ Nanoxia Deep Silence 3
 	+ Dell UltraSharp U2515H, LG W2242T
@@ -56,10 +56,11 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 4* Broadcom Gigabit Ethernet
 	+ 32GB SanDisk USB-Stick (Boot-Drive)
 	+ 8GB VFLASH SD-Card
-	+ Proxmox 4.4
+	+ Proxmox 5
 	
 + Netzwerk
 	+ 2* ZyXEL GS1910-24
+	+ Clavister SG60
 	+ Zig Meter Netzwerkkabel - Teils vorkonfektioniert gekauft, oder selbst gecrimpt
 	+ Fritz!Box 7360 EWE Edition (VDSL, Sync mit 22/1,9Mbit)
 	+ Banana Pi (DHCP & DNS Server)
@@ -72,7 +73,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ 16 GB ECC DDR3 RAM
 		+ 3ware SAS 9750-4i RAID-Controller
 		+ 2* 1TB WD RED ZFS Mirror
-		+ 2* 128GB OCZ Agility 3 SSD RAID1
+		+ 2* 128GB Kingston SSDNow V300 RAID 1
 		+ 1 GBit Anbindung
 		+ Debian Jessie
 		+ 4 Team Fortress 2 Server, Web/Mailserver, Seafile
