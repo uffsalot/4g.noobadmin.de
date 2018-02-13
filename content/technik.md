@@ -24,6 +24,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ be quiet! Straight Power 10-CM 600W
 	+ Samsung 960 EVO 550GB, Samsung EcoGreen F4 2TB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
+	+ Mellanox ConnectX-2 (10GBASE-SR SFP+ von FiberStore)
 	+ Nanoxia Deep Silence 3
 	+ Dell UltraSharp U2515H, LG W2242T
 	+ Logitech G110
@@ -40,7 +41,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 1* 4TB Seagate Desktop SSHD
 	+ 1* 5TB WD Blue
 	+ 1* Samsung 840 EVO 120GB SSD
-	+ IBM PRO/1000 PT Dual-Port (Intel 82571GB) (Beide Schnittstellen gebündelt)
+	+ Fujitsu D2755-A1 2x SPF+ (1x 10GBASE-SR SFP+ von FiberStore)
 	+ Asus Xonar DS
 	+ TechniSat SkyStar HD (TVHeadend)
 	+ 19" Chenbro RM42200
@@ -51,14 +52,27 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 6* 8GB 1333MHz DDR3 ECC RAM (48GB Total)
 	+ 5* 146GB 15K SAS, 1x 512GB Samsung 840 Pro
 	+ Dell H310 (IT-Mode)
+	+ Mellanox ConnectX-2
 	+ 2* 717W PSU (redundant)
 	+ iDRAC 6 Enterprise
 	+ 4* Broadcom Gigabit Ethernet
 	+ 32GB SanDisk USB-Stick (Boot-Drive)
 	+ 8GB VFLASH SD-Card
 	+ Proxmox 5
-	
+
++ Server 3 (Fujitsu RX300 S7)
+	+ 2* Intel Xeon E5-2640
+	+ 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
+	+ 2* 300GB 15K SAS
+	+ Fujitsu D2607 (IT-Mode)
+	+ 2* 414W PSU (redundant)
+	+ Intel I350-T4
+	+ Intel I350-T2
+	+ Emulex Saturn-X 8Gb Fibre Channel HBA
+	+ Proxmox 5
+
 + Netzwerk
+	+ Mikrotik CSS326-24G-2S+RM
 	+ 2* ZyXEL GS1910-24
 	+ Clavister SG60
 	+ Zig Meter Netzwerkkabel - Teils vorkonfektioniert gekauft, oder selbst gecrimpt
