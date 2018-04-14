@@ -8,7 +8,6 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 
 + Mobil
 	+ Sony Xperia Z3 (Android 6.0.1, rooted)
-	+ LG Optimus 4X HD (Cyanogenmod 10)
 	+ Lenovo Thinkpad T430
 		+ HD+ Display (1600x900)
 		+ Intel i5-3320M
@@ -32,20 +31,17 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Windows 10 Pro x64
  
 + Server 1 (Datengrab, eierlegende Wollmilchsau...)
-	+ Intel Pentium G620
-	+ 4GB Kingston ValueRAM
-	+ Asrock H61M/U3S3
-	+ be quiet! Pure Power 300W
-	+ 1* 5TB Seagate Desktop HDD
-	+ 1* 4TB WD Red
-	+ 1* 4TB Seagate Desktop SSHD
-	+ 1* 5TB WD Blue
+	+ Intel Xeon E3-1230 v6
+	+ 1*16GB 2400MHz DDR4 ECC Kingston ValueRAM
+	+ Supermicro X11SSM-F
+	+ Seasonic SS-400L2U 400W
 	+ 1* Samsung 840 EVO 120GB SSD
+	+ 4* WD RED 10TB @ ZFS RAID10
+	+ Dell H310 (IT-Mode)
 	+ Fujitsu D2755-A1 2x SPF+ (1x 10GBASE-SR SFP+ von FiberStore)
-	+ Asus Xonar DS
 	+ TechniSat SkyStar HD (TVHeadend)
-	+ 19" Chenbro RM42200
-	+ Debian Jessie
+	+ 19" Fantec SRC-2080X07
+	+ Proxmox 5
  
 + Server 2 (Dell R610)
 	+ 2* Intel Xeon E5530
@@ -82,12 +78,10 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 
 + Online:
 	+ root-Server von [ip-projects.de](https://www.ip-projects.de)
-		+ Intel S1200BTL
-		+ Intel Xeon E3-1245
-		+ 16 GB ECC DDR3 RAM
-		+ 3ware SAS 9750-4i RAID-Controller
-		+ 2* 1TB WD RED ZFS Mirror
-		+ 2* 128GB Kingston SSDNow V300 RAID 1
+		+ Supermicro X9SCL
+		+ Intel Xeon E3-1270 v2
+		+ 32 GB ECC DDR3 RAM
+		+ 2* 4TB WD RED ZFS Mirror
+		+ 2* 256GB SanDisk SD8SB8U2 ZFS Mirror
 		+ 1 GBit Anbindung
-		+ Debian Jessie
-		+ 4 Team Fortress 2 Server, Web/Mailserver, Seafile
+		+ Proxmox 5
