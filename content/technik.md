@@ -4,7 +4,7 @@ draft: false
 title: Technik
 ---
 
-Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger großRechnerpark aufzubauen. Momentan im Einsatz:
+Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger großen Rechnerpark aufzubauen. Momentan im Einsatz:
 
 + Mobil
 	+ Samsung Galaxy S9+ 64GB (+ 128GB microSD)
