@@ -8,6 +8,14 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 
 + Mobil
 	+ Samsung Galaxy S9+ 64GB (+ 128GB microSD)
+	+ Lenovo Thinkpad T480
+		+ Full HD IPS Display
+		+ Intel i7-8550U
+		+ Fibocom L830-EB LTE
+		+ 16GB RAM
+		+ 256GB NVME SSD
+		+ Lenovo Thinkpad Battery 61++ (72Wh)
+		+ Windows 10 Pro x64
 	+ Lenovo Thinkpad T430
 		+ HD+ Display (1600x900)
 		+ Intel i5-3320M
@@ -21,7 +29,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ KFA² GeForce GTX 1080 EXOC 8GB
 	+ ASUS Prime X370-Pro
 	+ be quiet! Straight Power 10-CM 600W
-	+ Samsung 960 EVO 550GB, Samsung EcoGreen F4 2TB
+	+ Samsung 960 EVO 500GB, Samsung EcoGreen F4 2TB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
 	+ Mellanox ConnectX-2 (10GBASE-SR SFP+ von FiberStore)
 	+ Nanoxia Deep Silence 3
@@ -35,7 +43,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 1*16GB 2400MHz DDR4 ECC Kingston ValueRAM
 	+ Supermicro X11SSM-F
 	+ Seasonic SS-400L2U 400W
-	+ 1* Samsung 840 EVO 120GB SSD
+	+ 2* Samsung 860 Pro 512GB SSD
 	+ 6* WD RED 10TB @ ZFS RAID10
 	+ Dell H310 (IT-Mode)
 	+ Fujitsu D2755-A11 2x SPF+ (1x 10GBASE-SR SFP+ von FiberStore)
@@ -60,12 +68,12 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 2* Intel Xeon E5-2640
 	+ 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
 	+ 2* 300GB 15K SAS
+	+ 2* Samsung 970 Pro 512GB
 	+ Fujitsu D2607 (IT-Mode)
 	+ Fujitsu D2755-A11 2x SFP+
 	+ 2* 414W PSU (redundant)
 	+ Intel I350-T4
 	+ Intel I350-T2
-	+ Emulex Saturn-X 8Gb Fibre Channel HBA
 	+ Proxmox 5
 
 + Netzwerk
