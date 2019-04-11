@@ -13,7 +13,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ Intel i7-8550U
 		+ Fibocom L830-EB LTE
 		+ 16GB RAM
-		+ 256GB NVME SSD
+		+ Samsung SSD 970 EVO 1TB
 		+ Lenovo Thinkpad Battery 61++ (72Wh)
 		+ Windows 10 Pro x64
 	+ Lenovo Thinkpad T430
