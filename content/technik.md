@@ -15,13 +15,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ 16GB RAM
 		+ Samsung SSD 970 EVO 1TB
 		+ Lenovo Thinkpad Battery 61++ (72Wh)
-		+ Windows 10 Pro x64
-	+ Lenovo Thinkpad T430
-		+ HD+ Display (1600x900)
-		+ Intel i5-3320M
-		+ 8GB RAM
-		+ Samsung 850 Evo 500GB SSD (encrypted ZFS Root)
-		+ Arch Linux x64
+		+ Manjaro / Windows 10 Pro x64 Dualboot
 
 + Hauptrechner
 	+ AMD Ryzen 7 1700X
@@ -29,7 +23,9 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ KFA² GeForce GTX 1080 EXOC 8GB
 	+ ASUS Prime X370-Pro
 	+ be quiet! Straight Power 10-CM 600W
-	+ Samsung 960 EVO 500GB, Samsung EcoGreen F4 2TB
+	+ Samsung 960 EVO 500GB
+	+ Samsung EcoGreen F4 2TB
+	+ Samsung 860 EVO 500GB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
 	+ Mellanox ConnectX-2 (10GBASE-SR SFP+ von FiberStore)
 	+ Nanoxia Deep Silence 3
@@ -95,8 +91,8 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ 1 GBit Anbindung
 		+ Proxmox 5
 	+ Fujitsu RX300 S7 @ [ip-projects.de](https://www.ip-projects.de)
-        	+ 2* Intel Xeon E5-2640
-	        + 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
+		+ 2* Intel Xeon E5-2640
+		+ 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
         	+ 2* 300GB 15K SAS
 		+ 4* WD RED 4TB @ ZFS RAID10
 	        + 2* Samsung 970 Pro 512GB
