@@ -64,7 +64,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 8GB VFLASH SD-Card
 	+ Proxmox 5
 
-+ Server 3 (Fujitsu RX300 S7)
++ Server 3 (Fujitsu RX300 S7) @ [ip-projects.de](https://www.ip-projects.de)
 	+ 2* Intel Xeon E5-2640
 	+ 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
 	+ 2* 300GB 15K SAS
@@ -94,3 +94,16 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ 2* 256GB SanDisk SD8SB8U2 ZFS Mirror
 		+ 1 GBit Anbindung
 		+ Proxmox 5
+	+ Fujitsu RX300 S7 @ [ip-projects.de](https://www.ip-projects.de)
+        	+ 2* Intel Xeon E5-2640
+	        + 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
+        	+ 2* 300GB 15K SAS
+		+ 4* WD RED 4TB @ ZFS RAID10
+	        + 2* Samsung 970 Pro 512GB
+	        + Fujitsu D2607 (IT-Mode)
+	        + Fujitsu D2755-A11 2x SFP+
+	        + 2* 414W PSU (redundant)
+	        + Intel I350-T4
+        	+ Intel I350-T2
+	        + Proxmox 5
+		+ Redundante Netzwerk und Stromversorgung
