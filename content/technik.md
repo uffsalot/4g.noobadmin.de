@@ -60,18 +60,6 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ 8GB VFLASH SD-Card
 	+ Proxmox 5
 
-+ Server 3 (Fujitsu RX300 S7) @ [ip-projects.de](https://www.ip-projects.de)
-	+ 2* Intel Xeon E5-2640
-	+ 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
-	+ 2* 300GB 15K SAS
-	+ 2* Samsung 970 Pro 512GB
-	+ Fujitsu D2607 (IT-Mode)
-	+ Fujitsu D2755-A11 2x SFP+
-	+ 2* 414W PSU (redundant)
-	+ Intel I350-T4
-	+ Intel I350-T2
-	+ Proxmox 5
-
 + Netzwerk
 	+ Mikrotik CSS326-24G-2S+RM
 	+ Mikrotik CRS317-1G-16S+RM
@@ -93,13 +81,13 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Fujitsu RX300 S7 @ [ip-projects.de](https://www.ip-projects.de)
 		+ 2* Intel Xeon E5-2640
 		+ 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
-        	+ 2* 300GB 15K SAS
+		+ 2* 300GB 15K SAS
 		+ 4* WD RED 4TB @ ZFS RAID10
-	        + 2* Samsung 970 Pro 512GB
-	        + Fujitsu D2607 (IT-Mode)
-	        + Fujitsu D2755-A11 2x SFP+
-	        + 2* 414W PSU (redundant)
-	        + Intel I350-T4
-        	+ Intel I350-T2
-	        + Proxmox 5
+		+ 2* Samsung 970 Pro 512GB
+		+ Fujitsu D2607 (IT-Mode)
+		+ Fujitsu D2755-A11 2x SFP+
+		+ 2* 414W PSU (redundant)
+		+ Intel I350-T4
+		+ Intel I350-T2
+		+ Proxmox 5
 		+ Redundante Netzwerk und Stromversorgung
