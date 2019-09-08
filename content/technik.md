@@ -25,7 +25,8 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ be quiet! Straight Power 10-CM 600W
 	+ Samsung 960 EVO 500GB
 	+ Samsung EcoGreen F4 2TB
-	+ Samsung 860 EVO 500GB
+	+ Samsung 850 EVO 500GB
+	+ Samsung 860 EVO 1TB
 	+ Asus Xonar D2X (Beyerdynamic DT-990 Pro 250 Ω)
 	+ Mellanox ConnectX-2 (10GBASE-SR SFP+ von FiberStore)
 	+ Nanoxia Deep Silence 3
@@ -36,7 +37,7 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
  
 + Server 1 (Datengrab, eierlegende Wollmilchsau...)
 	+ Intel Xeon E3-1230 v6
-	+ 1*16GB 2400MHz DDR4 ECC Kingston ValueRAM
+	+ 32GB 2400MHz DDR4 ECC RAM
 	+ Supermicro X11SSM-F
 	+ Seasonic SS-400L2U 400W
 	+ 2* Samsung 860 Pro 512GB SSD
@@ -70,14 +71,6 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 	+ Ubiquiti UniFi AP AC LR
 
 + Online:
-	+ root-Server von [ip-projects.de](https://www.ip-projects.de)
-		+ Supermicro X9SCL
-		+ Intel Xeon E3-1270 v2
-		+ 32 GB ECC DDR3 RAM
-		+ 2* 4TB WD RED ZFS Mirror
-		+ 2* 256GB SanDisk SD8SB8U2 ZFS Mirror
-		+ 1 GBit Anbindung
-		+ Proxmox 5
 	+ Fujitsu RX300 S7 @ [ip-projects.de](https://www.ip-projects.de)
 		+ 2* Intel Xeon E5-2640
 		+ 16* 8 GB 1333MHz DDR3 ECC RAM (128GB Total)
@@ -89,5 +82,5 @@ Bekanntermaßen ist ja nahezu jeder IT'ler bemüht, sich einen mehr oder weniger
 		+ 2* 414W PSU (redundant)
 		+ Intel I350-T4
 		+ Intel I350-T2
-		+ Proxmox 5
+		+ Proxmox 6
 		+ Redundante Netzwerk und Stromversorgung
